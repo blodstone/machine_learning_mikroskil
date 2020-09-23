@@ -7,7 +7,7 @@ Jadwal kegiatan Machine Learning:
 
 ## Sabtu, 10 Oktober 2020 (Tutorial)
 - Topik: Jaringan Saraf Tiruan (Deep Learning Part I)
-- Speaker: *TBA*
+- Speaker: Irpan Pardosi
 
 ## Sabtu, 17 Oktober 2020 (Talk Show)
 - Topik: *TBA*
