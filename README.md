@@ -56,15 +56,15 @@ Jadwal kegiatan Machine Learning:
 - Topik: *TBA*
 - Host: Hardy & Alvin
 
-## Sabtu, 9 Januari 2020 (Tutorial)
+## Sabtu, 9 Januari 2021 (Tutorial)
 - Topik: Convolutional Neural Network (Deep Learning Part IV)
 - Speaker: Wulan Sri Lestari
 
-## Sabtu, 16 Januari 2020 (Talk Show)
+## Sabtu, 16 Januari 2021 (Talk Show)
 - Topik: *TBA*
 - Host: Hardy & Alvin
 
 
-## Sabtu, 23 Januari  2020 (Reading Group)
+## Sabtu, 23 Januari  2021 (Reading Group)
 - Topik: Mathematics for Machine Learning
 - Presenter: *TBA*
