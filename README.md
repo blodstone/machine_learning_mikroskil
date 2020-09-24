@@ -41,7 +41,7 @@ Jadwal kegiatan Machine Learning:
 
 ## Sabtu, 5 Desember 2020 (Tutorial)
 - Topik: Recurrent Neural Network (Deep Learning Part III)
-- Speaker: *TBA*
+- Speaker: Mustika Ulina
 
 ## Sabtu, 12 Desember 2020 (Talk Show)
 - Topik: *TBA*
