@@ -5,9 +5,9 @@ Jadwal kegiatan Machine Learning:
 - Topik: Machine Learning & Hardware
 - Host: Hardy & Alvin
 
-## Sabtu, 10 Oktober 2020 (Tutorial)
-- Topik: Jaringan Saraf Tiruan (Deep Learning Part I)
-- Speaker: Irpan Pardosi
+## Sabtu, 10 Oktober 2020 (Tutorial) (Rescheduled)
+- Topik: ~~Jaringan Saraf Tiruan (Deep Learning Part I)~~
+- Speaker: ~~Irpan Pardosi~~
 
 ## Sabtu, 17 Oktober 2020 (Talk Show)
 - Topik: *TBA*
@@ -17,6 +17,7 @@ Jadwal kegiatan Machine Learning:
 ## Sabtu, 24 Oktober 2020 (Reading Group)
 - Topik: Mathematics for Machine Learning
 - Presenter: Hardy
+- Bahan: 17 - 35 bab II.
 
 ## Sabtu, 31 Oktober 2020 (Talk Show)
 - Topik: *TBA*
