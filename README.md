@@ -9,63 +9,66 @@ Jadwal kegiatan Machine Learning:
 - Topik: ~~Jaringan Saraf Tiruan (Deep Learning Part I)~~
 - Speaker: ~~Irpan Pardosi~~
 
-## Sabtu, 17 Oktober 2020 (Talk Show)
-- Topik: *TBA*
-- Host: Hardy & Alvin
-
-
-## Sabtu, 24 Oktober 2020 (Reading Group)
+## Sabtu, 17 Oktober 2020 (Reading Group)
 - Topik: Mathematics for Machine Learning
 - Presenter: Hardy
 - Bahan: 17 - 35 bab II.
 
-## Sabtu, 31 Oktober 2020 (Talk Show)
+
+## Sabtu, 24 Oktober 2020 (Talk Show)
 - Topik: *TBA*
 - Host: Hardy & Alvin
 
-## Sabtu, 7 November 2020 (Tutorial)
+## Sabtu, 31 Oktober 2020 (Tutorial)
 - Topik: Backpropagation (Deep Learning Part II)
 - Speaker: Hardy
 
-## Sabtu, 14 November 2020 (Talk Show)
+## Sabtu, 7 November 2020 (Talk Show)
 - Topik: *TBA*
 - Host: Hardy & Alvin
 
-
-## Sabtu, 21 November 2020 (Reading Group)
+## Sabtu, 14 November 2020 (Reading Group)
 - Topik: Mathematics for Machine Learning
 - Presenter: *TBA*
 
-## Sabtu, 28 November 2020 (Talk Show)
+## Sabtu, 21 November 2020 (Talk Show)
 - Topik: *TBA*
 - Host: Hardy & Alvin
-
-## Sabtu, 5 Desember 2020 (Tutorial)
+(Talk Show)
+- Topik: *TBA*
+- Host: Hardy & Alvin
+## Sabtu, 28 November 2020  (Tutorial)(Reading Group)
+- Topik: Mathematics for Machine Learning
+- Presenter: *TBA*
 - Topik: Recurrent Neural Network (Deep Learning Part III)
 - Speaker: Mustika Ulina
 
-## Sabtu, 12 Desember 2020 (Talk Show)
+## Sabtu, 5 Desember 2020 (Talk Show)
 - Topik: *TBA*
 - Host: Hardy & Alvin
 
-
-## Sabtu, 19 Desember 2020 (Reading Group)
+## Sabtu, 12 Desember 2020 (Reading Group)
 - Topik: Mathematics for Machine Learning
 - Presenter: *TBA*
 
-## Sabtu, 28 November 2020 (Talk Show)
+
+## Sabtu, 19 Desember 2020 (Talk Show)
 - Topik: *TBA*
 - Host: Hardy & Alvin
 
-## Sabtu, 9 Januari 2021 (Tutorial)
+## Sabtu, 28 November 2020 (Tutorial)
 - Topik: Convolutional Neural Network (Deep Learning Part IV)
 - Speaker: Wulan Sri Lestari
 
-## Sabtu, 16 Januari 2021 (Talk Show)
+## Sabtu, 9 Januari 2021 (Talk Show)
 - Topik: *TBA*
 - Host: Hardy & Alvin
 
-
-## Sabtu, 23 Januari  2021 (Reading Group)
+## Sabtu, 16 Januari 2021 (Reading Group)
 - Topik: Mathematics for Machine Learning
 - Presenter: *TBA*
+
+
+## Sabtu, 23 Januari  2021 (Talk Show)
+- Topik: *TBA*
+- Host: Hardy & Alvin
