@@ -29,7 +29,8 @@ Jadwal kegiatan Machine Learning:
 
 ## Sabtu, 14 November 2020 (Reading Group)
 - Topik: Mathematics for Machine Learning
-- Presenter: *TBA*
+- Presenter: Hardy
+- Bahan: 25 - 44 bab II
 
 ## Sabtu, 21 November 2020 (Talk Show)
 - Topik: *TBA*
