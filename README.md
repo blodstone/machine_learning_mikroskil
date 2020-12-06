@@ -15,7 +15,7 @@ Jadwal kegiatan Machine Learning:
 - Presenter: Kevin
 - Bahan: 25 - 44 bab II
 
-## Sabtu, 16 Desember 2020 (Reading Group)
+## Sabtu, 19 Desember 2020 (Reading Group)
 - Topik: Mathematics for Machine Learning
 - Presenter: Alvin
 - Bahan: 45 - 53 bab II
